@@ -1,0 +1,13 @@
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\Workflow1.g.xaml
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\_Chapter01.g.cs
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\Workflow1.g.cs
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\Chapter01.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\Chapter01.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\InProcessTempFiles\_Chapter01.g.cs
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\Chapter01.exe
+C:\Exercises\MSWorkflows_BeginningWF\Chapter01\Chapter01\obj\x86\Debug\Chapter01.pdb
